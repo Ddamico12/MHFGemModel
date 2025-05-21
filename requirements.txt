@@ -1,0 +1,8 @@
+kagglehub>=0.3.12
+packaging>=25.0
+pyyaml>=6.0.2
+requests>=2.32.3
+tqdm>=4.67.1
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0 
